@@ -6,17 +6,16 @@ This repository contains a collection of simple JavaScript programs developed as
 
 Each file demonstrates a specific concept or feature of JavaScript:
 
-* `addition.js` – Performs addition of two numbers.
+* `addition.js` – Performs addition of two or more numbers.
 * `celciusToFarenheight.js` – Converts temperature from Celsius to Fahrenheit.
 * `characterIncludes.js` – Checks if a specific word exists in a given sentence.
 * `charAt.js` – Finds the character at a specified index in a string.
-* `concatenate.js` – Concatenates two strings.
+* `concatenate.js` – Concatenates two or more strings.
 * `minuteToSecond.js` – Converts minutes into seconds.
-* `multiplication.js` – Multiplies two numbers.
+* `multiplication.js` – Multiplies two or more numbers.
 * `oddOrEven.js` – Determines if a number is odd or even.
 * `positiveOrNegative.js` – Checks whether a number is positive or negative.
 * `square.js` – Calculates the square of a number.
-* `sToFarenheight.js` – (Likely) a variation of the Celsius to Fahrenheit converter.
 
 ### 💻 Execution
 
